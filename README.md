@@ -1,16 +1,21 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a0a0f&height=110&section=header&text=Reza%20Siregar&fontSize=34&fontColor=ffffff&fontAlignY=36" width="100%" />
 
-<!--
-**82-flareveggies/82-flareveggies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Reza. Mostly building small things.
 
-Here are some ideas to get you started:
+Breaks things on staging so production stays quiet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Da Nang, Vietnam · Piksel Nusantara
+
+**What I'm up to**
+
+- 📉 cutting an endpoint's latency
+- 🧵 threading through old logs
+- 🚲 cycling to clear my head
+
+**Stack**
+
+![Ansible](https://img.shields.io/badge/Ansible-30363D?style=for-the-badge&logo=github&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-30363D?style=for-the-badge&logo=github&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-30363D?style=for-the-badge&logo=github&logoColor=white) ![Molecule](https://img.shields.io/badge/Molecule-30363D?style=for-the-badge&logo=github&logoColor=white) ![Collections](https://img.shields.io/badge/Collections-30363D?style=for-the-badge&logo=github&logoColor=white)
+
+![Last commit](https://img.shields.io/github/last-commit/82-flareveggies/82-flareveggies?style=flat-square&color=be123c&label=last%20commit)
+
+_Say hi on a bad day; code is the easy part._
